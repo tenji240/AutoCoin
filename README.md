@@ -31,8 +31,7 @@ Automated Bitcoin Wallet Management backed by Trading Algorithms via Coinbase Wa
 - Look into the legal stuff of managing Bitcoin (seems pretty free at the moment, not much gov reg)
 - It'd be cool if all we did was manage buying and selling, and let CoinBase handle the rest
 - Some Legal Stuff
-  - Basic stuff like "Hey you're giving us control of your wallet to do buying and selling of bitcoins, just so you know"
-  - 
+  - Basic stuff like "Hey you're giving us control of your wallet to do buying and selling of bitcoins, just so you know" 
  
 ###Some Notes
 ------
@@ -55,3 +54,12 @@ Automated Bitcoin Wallet Management backed by Trading Algorithms via Coinbase Wa
   - whatever that is :p
 - Sales
   - we take 2% of all successful transactions
+  
+##Pipedream Stuff
+------
+
+- Who knows bro, that's part of the team to help figure out
+- Native Mobile Applications for iOS & Android
+- Power User Mode with super detail Charts and Analytics
+- Ability to have the execute calls on their own
+- Mabye create an algorithm marketplace, where users can create new algos, and get a cut for every successful transaction? 
